@@ -1,0 +1,74 @@
+.foto-perfil{
+    height:15%;
+    width:auto;
+    max-width:15%;
+    border-radius:50%;
+}
+
+.tamanho-projetos{
+    height: 300px;
+    width: 100%;
+    display: block;
+}
+
+.corPrimaria{
+    background-color: #E69011;
+}
+
+.corSecundaria{
+    background-color: #2c3e50;
+}
+
+.p{
+    font-family:Lato, 'Helverica Neue', Helverica, Arial, sans-serif;
+    color:black !important;
+}
+
+.icones{
+    padding-left:5px;
+}
+
+.titulosAmarelos{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #E69011;
+}
+
+.titulosBrancos{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.titulosVerdes{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #18bc9c;
+}
+
+.textoBranco{
+    color: white !important;
+}
+
+.fundosPretos{
+    background-color: black;
+}
+
+.espacamentoSessao{
+    margin:0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.html{
+    scroll-behavior: smooth;
+}
